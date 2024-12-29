@@ -31,10 +31,20 @@ author:
   name: Sundar Gurumurthy
   email: gmsundar15@gmail.com
   workemail: sundar-gurumurthy@cranfield.ac.uk
+
+header_pages:
+  - about.md
+  - blog.md
+
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: true
+
 minima:
   skin: dark
   social_links:
