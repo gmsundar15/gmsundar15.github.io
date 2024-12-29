@@ -1,2 +1,3 @@
 # gmsundar15.github.io
-Personal website
+Repository to manage my personal website.
+Shared under GPLv2 licence.
