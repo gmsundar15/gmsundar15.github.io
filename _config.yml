@@ -34,7 +34,7 @@ author:
 
 header_pages:
   - about.md
-  - blog.md
+  - index.html
 
 # Build settings
 #theme: minima
@@ -42,8 +42,10 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
-paginate: true
+paginate: 5 
+paginate_path: "/blog/page:num/"
 
 minima:
   skin: dark
