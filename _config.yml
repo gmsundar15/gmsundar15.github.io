@@ -36,6 +36,7 @@ header_pages:
   - index.md
   - about.md
   - blog/index.html
+  - resume/resume.html
 
 # Build settings
 #theme: minima
