@@ -33,8 +33,9 @@ author:
   workemail: sundar-gurumurthy@cranfield.ac.uk
 
 header_pages:
+  - index.md
   - about.md
-  - index.html
+  - blog/index.html
 
 # Build settings
 #theme: minima
