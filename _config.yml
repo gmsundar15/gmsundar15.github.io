@@ -37,6 +37,11 @@ header_pages:
   - about.md
   - blog/index.html
   - resume/resume.html
+  - cv.md
+
+timezone: Europe/London
+future: true
+highlighter: rogue
 
 # Build settings
 #theme: minima
@@ -50,7 +55,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     - { platform: github,         user_url: "https://github.com/gmsundar15" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=a1rJKy4AAAAJ" }
