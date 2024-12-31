@@ -36,7 +36,6 @@ header_pages:
   - index.md
   - about.md
   - blog/index.html
-  - resume/resume.html
   - cv.md
 
 timezone: Europe/London
