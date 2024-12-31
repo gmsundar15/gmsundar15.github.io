@@ -67,7 +67,7 @@ minima:
   skin: solarized-dark
   social_links:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=a1rJKy4AAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+    - { platform: orcid,          user_url: "https://orcid.org/0000-0001-5388-8785" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/sundar-guru/" }
     - { platform: github,         user_url: "https://github.com/gmsundar15" }
 # Exclude from processing.
