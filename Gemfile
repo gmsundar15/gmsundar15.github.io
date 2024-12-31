@@ -18,7 +18,9 @@ gem "jekyll-theme-chirpy", "~> 7.2.4"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate", "~> 1.1"
+  gem "jekyll-seo-tag"
 end
+gem "jekyll-scholar", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

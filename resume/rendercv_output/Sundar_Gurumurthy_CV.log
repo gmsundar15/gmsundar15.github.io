@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  30 DEC 2024 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  31 DEC 2024 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,7 +1025,7 @@ envs/rendercv/lib/python3.13/site-packages/rendercv_tinytex/tinytex-release/Tin
 yTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/sundar/.local/share/pip
 x/venvs/rendercv/lib/python3.13/site-packages/rendercv_tinytex/tinytex-release/
 TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on Sundar_Gurumurthy_CV.pdf (2 pages, 340331 bytes).
+Output written on Sundar_Gurumurthy_CV.pdf (2 pages, 340319 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  106 compressed objects within 2 object streams

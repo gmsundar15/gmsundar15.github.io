@@ -3,7 +3,7 @@
 - Phone: +44 7442 278370
 - Email: [gmsundar15@gmail.com](mailto:gmsundar15@gmail.com)
 - Location: Cranfield, United Kingdom
-- Website: [gmsundar15.github.io](https://gmsundar15.github.io/)
+- Website: [sundargurumurthy.com](https://sundargurumurthy.com/)
 - LinkedIn: [sundar-guru](https://linkedin.com/in/sundar-guru)
 - ORCID: [0000-0001-5388-8785](https://orcid.org/0000-0001-5388-8785)
 - Google Scholar: [a1rJKy4AAAAJ](https://scholar.google.com/citations?user=a1rJKy4AAAAJ)
